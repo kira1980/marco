@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,TIIN
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/172.ts
+#EXTINF:-1,HISTORY
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/174.ts
+#EXTINF:-1,DISNEY XD
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/170.ts
+#EXTINF:-1,DISCOVERY THEATHER
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/173.ts
+#EXTINF:-1,CARTOON NETWORK
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/169.ts
+#EXTINF:-1,BOOMERANG
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/171.ts
+#EXTINF:-1,TBS VERYFUNNY
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/161.ts
+#EXTINF:-1,NICK JR
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/165.ts
+#EXTINF:-1,NICK HD
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/167.ts
+#EXTINF:-1,NICK
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/168.ts
+#EXTINF:-1,GLITZ
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/160.ts
+#EXTINF:-1,DISNEY JR
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/164.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/166.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/162.ts
+#EXTINF:-1,CBEEBIES
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/163.ts
+#EXTINF:-1,TNT SERIES
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/158.ts
+#EXTINF:-1,SYFY
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/156.ts
+#EXTINF:-1,ID
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/157.ts
+#EXTINF:-1,GOURMET
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/159.ts
+#EXTINF:-1,E!
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/155.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/154.ts
+#EXTINF:-1,AZTECA 7
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/134.ts
+#EXTINF:-1,AZTECA 13
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/135.ts
+#EXTINF:-1,AXN
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/150.ts
+#EXTINF:-1,A&E
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/149.ts
+#EXTINF:-1,UNICABLE
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/153.ts
+#EXTINF:-1,TRU TV
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/151.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/152.ts
+#EXTINF:-1,WARNER
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/146.ts
+#EXTINF:-1,UNIVERSAL
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/147.ts
+#EXTINF:-1,SONY
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/145.ts
+#EXTINF:-1,FX
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/148.ts
+#EXTINF:-1,FOX
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/144.ts
+#EXTINF:-1,FORMULA 1
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/143.ts
+#EXTINF:-1,PROYECTO 40
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/136.ts
+#EXTINF:-1,ONCE TV
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/141.ts
+#EXTINF:-1,GALAVISION
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/140.ts
+#EXTINF:-1,FORO TV
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/139.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/137.ts
+#EXTINF:-1,CANAL 5
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/138.ts
+#EXTINF:-1,TELEHIT
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/132.ts
+#EXTINF:-1,Star HD
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/131.ts
+#EXTINF:-1,Azteca Noticias
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/71.ts
+#EXTINF:-1,CB24
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/73.ts
+#EXTINF:-1,Discovery World
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/9.ts
+#EXTINF:-1,Distrito Comedia
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/63.ts
+#EXTINF:-1,DW Latinoamerica
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/4.ts
+#EXTINF:-1,Euronews en Español
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/74.ts
+#EXTINF:-1,FOX Life
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/62.ts
+#EXTINF:-1,Tooncast
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/39.ts
+#EXTINF:-1,TV 5 Monde
+http://191.101.152.189:8000/live/demo1/p62qyEvseT/6.ts
